@@ -4,5 +4,5 @@ def polindrom(string):
     else:
         print(string, '=', False)
 
-polindrom('шАла   Ш')
+polindrom('шАлаШ')
 polindrom('хЕлоуворлд')
